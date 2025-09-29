@@ -1,4 +1,4 @@
-package raghwendra;
+package GET;
 
 import io.restassured.RestAssured;
 
